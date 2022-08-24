@@ -19,7 +19,7 @@
 * [3.1 Priorización de datos](3.-publicacion/1.3-priorizacion-de-datos.md)
 * [3.2 Plan de apertura](3.-publicacion/untitled.md)
 * [3.3 Documentación](3.-publicacion/3.2-diccionarios.md)
-* [4.1 Promoción de los datos](4.-socializacion/untitled.md)
+* [3.4 Promoción de los datos](4.-socializacion/untitled.md)
 
 ## 4. Recursos <a href="#plantillas" id="plantillas"></a>
 
