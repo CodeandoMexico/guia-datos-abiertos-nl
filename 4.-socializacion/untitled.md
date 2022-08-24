@@ -27,7 +27,7 @@ Generar mecanismos de participación con todos los sectores de la sociedad:&#x20
 * Estrategias de consulta y encuestas.
 * Impulsar la generación de valor.
 
-![Open Data Day](../.gitbook/assets/image.png)
+![Open Data Day](<../.gitbook/assets/image (5).png>)
 
 ## Estrategias de comunicación
 

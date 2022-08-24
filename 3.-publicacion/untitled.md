@@ -16,7 +16,7 @@ Para el Plan de Apertura se deberá considerar lo siguiente:
 2. Documentar los mecanismos de priorización utilizados para la selección de los conjuntos de datos que se abrirán en formatos abiertos.
 3. Señalar al público las fechas para la publicación de aquellos conjuntos de datos en formatos abiertos.
 
-![Ejemplo Plan de Apertura](<../.gitbook/assets/image (9).png>)
+![Ejemplo Plan de Apertura](<../.gitbook/assets/image (4).png>)
 
 ## **Eliminación o cambios significativos**
 
