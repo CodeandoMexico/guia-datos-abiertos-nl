@@ -6,7 +6,7 @@ description: >-
 
 # 4.1 Promoción de los datos
 
-Se deberá promover y asegurar la generación, publicación y uso de Datos Abiertos en herramientas y aplicativos digitales del Congreso, a través del uso en la ciudadanía y estrategias de comunicación de Datos Abiertos.
+Se deberá promover y asegurar la generación, publicación y uso de Datos Abiertos en herramientas y aplicativos digitales para uso de la ciudadanía y otras estrategias de comunicación.
 
 ## H**erramientas y aplicativos digitales**
 
@@ -17,7 +17,7 @@ Referencias sitios públicos que hagan uso de los datos:
 * Bancos de información, colecciones de documentos, archivos, digitalizaciones, etc.
 * Aplicaciones web o móviles.
 
-![datamexico.org](https://lh5.googleusercontent.com/m7ucYCb2D-hBXLLSskDEkSB5h7XDoW4hwSc62RxKyOVQnrcRAYpTu\_TWatRWdljT1yO-KHKkS9kaEkmXcpm8zJkdjScp5SY-O1urkK\_6pnx0ouRiQuclA9mtYc5E6LTAxJkae1rX6kk)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><a href="https://datamexico.org/es/profile/geo/nuevo-leon-nl">datamexico.org</a></p></figcaption></figure>
 
 ## Participación ciudadana
 
@@ -27,7 +27,7 @@ Generar mecanismos de participación con todos los sectores de la sociedad:&#x20
 * Estrategias de consulta y encuestas.
 * Impulsar la generación de valor.
 
-![Open Data Day](<../.gitbook/assets/image (5).png>)
+![Open Data Day](<../.gitbook/assets/image (5) (1).png>)
 
 ## Estrategias de comunicación
 
