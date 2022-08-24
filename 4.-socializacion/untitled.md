@@ -17,7 +17,7 @@ Referencias sitios públicos que hagan uso de los datos:
 * Bancos de información, colecciones de documentos, archivos, digitalizaciones, etc.
 * Aplicaciones web o móviles.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p><a href="https://datamexico.org/es/profile/geo/nuevo-leon-nl">datamexico.org</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p><a href="https://datamexico.org/es/profile/geo/nuevo-leon-nl">datamexico.org</a></p></figcaption></figure>
 
 ## Participación ciudadana
 

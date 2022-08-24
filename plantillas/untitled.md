@@ -6,7 +6,7 @@ description: >-
 
 # Plantillas
 
-A continuación puedes encontrar una lista de plantillas y recursos base que pueden ser utilizados como referencia o modificados para la implementación de la Política de Datos Abiertos.
+A continuación puedes encontrar una lista de plantillas y recursos base que pueden ser utilizados como referencia o modificados para la implementación de esta guía.
 
 | Documento                                                                                                      | Descripción                                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
