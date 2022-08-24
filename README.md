@@ -28,7 +28,11 @@ Siendo estas las siguientes:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-Adicionalmente se provee una sección con otros recursos útiles para el entendimiento y apoyo de implementación de la guía a través de recursos digitales, plantillas, materiales de capacitación y otras herramientas.
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+Se provee también una sección con otros recursos útiles para el entendimiento y apoyo de implementación de la guía a través de recursos digitales, plantillas, materiales de capacitación y otras herramientas.
 
 ## Atribuciones
 
