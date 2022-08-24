@@ -4,7 +4,7 @@
 
 ## 1. Gestión <a href="#gestion-1" id="gestion-1"></a>
 
-* [1.1 Política de apertura](gestion-1/1.1-politica-de-apertura.md)
+* [1.1 Política de apertura](1.-politica/1.1-politica-de-apertura.md)
 * [1.2 Gestión de la información](gestion-1/1.1-gestion-de-la-informacion.md)
 * [1.3 Calidad de los datos](gestion-1/1.2-calidad-de-los-datos.md)
 * [1.4 Catálogo de datos](gestion-1/1.2-catalogo-de-datos.md)
