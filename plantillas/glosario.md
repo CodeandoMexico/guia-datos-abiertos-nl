@@ -6,21 +6,17 @@ description: >-
 
 # Glosario
 
-#### **Congreso**
-
-Honorable Congreso del Estado de Jalisco.
-
-#### **Conjunto de datos**
+**Conjunto de datos**
 
 Se refiere a una colección de datos estructurados, vinculados entre sí y agrupados dentro de una misma unidad.
 
-#### **Dataton**
+#### **Datatón**
 
 Es un evento intensivo en el que se reúnen especialistas en distintas áreas, como computación, derecho, estadística y periodismo para generar pruebas de concepto de herramientas tecnológicas útiles en el combate contra la corrupción y que generen valor público en beneficio de la población.
 
 #### **Datos**
 
-El registro informativo simbólico, cuantitativo o cualitativo, generado u obtenido por el Congreso del Estado de Jalisco.
+El registro informativo simbólico, cuantitativo o cualitativo, generado u obtenido por los sujetos obligados del Estado de Nuevo León.
 
 #### **Datos abiertos**
 
@@ -54,11 +50,11 @@ Son los datos que se proporcionan en una forma fácilmente procesable por una co
 
 Los datos estructurados y actualizados que describen el contexto y las características de contenido, captura, procesamiento, calidad, condición, acceso y distribución de un conjunto de datos, que sirven para facilitar su búsqueda, identificación y uso.
 
-#### **Parlamento abierto**
+#### **Gobierno abierto**
 
-Es una nueva forma de interacción entre la ciudadanía y el Poder Legislativo que fomenta la apertura parlamentaria, con el fin de garantizar la transparencia y el acceso a la información pública, la rendición de cuentas, la participación ciudadana, la ética y la probidad parlamentarias.
+Es una nueva forma de interacción entre la ciudadanía y el gobierno que fomenta la apertura, con el fin de garantizar la transparencia y el acceso a la información pública, la rendición de cuentas, la participación ciudadana y la ética.
 
 #### **Recursos de información**
 
-Información creada, recopilada, procesada, difundida o reunida por o para el Congreso del Estado de Jalisco.
+Información creada, recopilada, procesada, difundida o reunida por los sujetos obligados el Estado de Nuevo León.
 
